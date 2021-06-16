@@ -8,6 +8,5 @@ HW for course e046746 @ the Technion
 5) Very detailed report of it all expanding 38 pages
 
 ![Alt text](Documentation/Q9_sintraPano_SiftRansac_PoissonBlend.JPG?raw=true "Panorama with Poisson Blending")
-![Alt Text](Documentation/DBZ Transfer Learning.gif)
 
 
