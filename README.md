@@ -12,6 +12,6 @@ Panorama before and after poisson blending
 ![Alt text](Documentation/Q9_sintraPano_SiftRansac_PoissonBlend.jpg?raw=true "Panorama with Poisson Blending")
 
 transfer learning using neural_style
-![Taste](/Documentation/DBZ Transfer Learning.gif)
+![Taste](/Documentation/DBZ_Transfer_Learning.gif.gif)
 
 
