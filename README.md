@@ -7,6 +7,8 @@ HW for course e046746 @ the Technion
 4) Augmented Reality Application with transfer learnning - neural_style
 5) Very detailed report of it all expanding 38 pages
 
+![Alt text](Documentation/Q7_sintraPano_Manual.jpg?raw=true "Panorama - basic")
 ![Alt text](Documentation/Q9_sintraPano_SiftRansac_PoissonBlend.jpg?raw=true "Panorama with Poisson Blending")
+![Alt Text](Documentation/DBZ Transfer Learning.gif)
 
 
